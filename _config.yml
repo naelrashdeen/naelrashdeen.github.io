@@ -2,7 +2,7 @@
 title: Nael Rashdeen # site title
 description:  # site description
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: Europe/London  # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
@@ -11,13 +11,15 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Nael Rashdeen # author name
   bio: >- # tell to the world
-    24. Developer.
+    I code, watch F1 and produce beats sometimes.   
+    Want to get in touch? U may need ✨
+
   username: username # general username
-  github: github_username # github username
+  github: naelrashdeen # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   email: naelrashdeen@gmail.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  avatar: /assets/img/boy.png # change with your own avatar
 
 # URL settings
 url: "https://klise.now.sh" #
