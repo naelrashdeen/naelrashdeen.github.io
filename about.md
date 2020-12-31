@@ -9,16 +9,12 @@ I'm a technologist with 4+ years of professional experience under my belt. I'm 2
 
 I built this website for fun, to start documenting my personal challenges and learnings within the field of software engineering and technical leadership.
 
-I enjoy working with people and enabling potentials through technology. The mix of actively coding and engineering management is a part of my day to day work, which i'm enjoying so far. ✨
+I enjoy working with people and enabling potentials through technology. The mix of actively coding and engineering management is a part of my day to day work which i'm enjoying so far. 💫
 
-
-
-<!-- I have always enjoyed the aspect of building stuff since I was a kid whether it being Lego or Minecraft. Therefore when I had to make the decision to pursue a degree after highschool [ComputerScience] seemed appealing. -->
-
-
-If you want to get in touch, don't hesitate to reach out 😎
+If you want to get in touch, don't hesitate to reach out 🚀
 
 **U may need ✨**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- <a href="mailto:{{ site.author.email }}" target="_blank" rel="noopener">Mail</a>
+- <a href="https://www.github.com/{{ site.author.github }}" target="_blank" rel="noopener">Github</a>
+- <a href="https://www.linkedin.com/in/nael-rashdeen-22b100139/" target="_blank" rel="noopener">LinkedIn</a>
