@@ -1,18 +1,24 @@
 ---
 title: About me
-permalink: /about/
+permalink: /about
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I'm a technologist with 4+ years of professional experience under my belt. I'm 24, live in Copenhagen and work at <a href="https://monstar-lab.com/global/" target="_blank" rel="noopener">Monstar Lab, Inc</a>. 
 
-If you have a question about him or else, just send a letter to him.
+I built this website for fun, to start documenting my personal challenges and learnings within the field of software engineering and technical leadership.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+I enjoy working with people and enabling potentials through technology. The mix of actively coding and engineering management is a part of my day to day work, which i'm enjoying so far. ✨
 
-**may u needs ✨**
+
+
+<!-- I have always enjoyed the aspect of building stuff since I was a kid whether it being Lego or Minecraft. Therefore when I had to make the decision to pursue a degree after highschool [ComputerScience] seemed appealing. -->
+
+
+If you want to get in touch, don't hesitate to reach out 😎
+
+**U may need ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
