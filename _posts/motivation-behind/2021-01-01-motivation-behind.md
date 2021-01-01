@@ -1,7 +1,7 @@
 ---
 title: Why I built my own website? 
 date: 2021-01-01 09:45:47 +07:00
-tags: [learnings, jekyll, github]
+tags: [learnings]
 ---
 
 # Motivation behind
